@@ -1,0 +1,24 @@
+[submodule "langgraph"]
+	path = langgraph
+	url = https://github.com/langchain-ai/langgraph
+[submodule "TradingAgents"]
+	path = TradingAgents
+	url = https://github.com/TauricResearch/TradingAgents
+[submodule "storm"]
+	path = storm
+	url = https://github.com/stanford-oval/storm
+[submodule "gpt-researcher"]
+	path = gpt-researcher
+	url = https://github.com/assafelovic/gpt-researcher
+[submodule "generative_agents"]
+	path = generative_agents
+	url = https://github.com/joonspk-research/generative_agents
+[submodule "LightRAG"]
+	path = LightRAG
+	url = https://github.com/HKUDS/LightRAG
+[submodule "openai-agents-python"]
+	path = openai-agents-python
+	url = https://github.com/openai/openai-agents-python
+[submodule "ChatDev"]
+	path = ChatDev
+	url = https://github.com/OpenBMB/ChatDev
